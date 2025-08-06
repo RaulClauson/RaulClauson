@@ -26,6 +26,21 @@ Sou um desenvolvedor Front-End em formação, apaixonado por criar interfaces in
 
 ###
 
+<div style="display: flex; align-items: center; gap: 10px;">
+<img 
+        src="https://github-readme-stats.vercel.app/api?username=RaulClauson&show_icons=true&theme=dark" 
+        alt="Raul Clauson GitHub stats" 
+        style="height: 150px;"
+>
+<img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulClauson&layout=compact&theme=dark" 
+        alt="Top Langs" 
+        style="height: 150px;"
+>
+</div>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/raul-clauson/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
