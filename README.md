@@ -1,5 +1,3 @@
-###
-
 # Olá! Me chamo Raul 👋
 
 ### Desenvolvedor Front-End | Mobile | UI/UX
@@ -53,7 +51,7 @@ Sou um desenvolvedor Front-End em formação, apaixonado por criar interfaces in
   <a href="https://www.linkedin.com/in/raul-clauson/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://raulclauson.github.io/portfolio/" target="_blank">
+  <a href="https://rclauson-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfólio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
